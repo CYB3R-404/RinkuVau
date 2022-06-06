@@ -30,9 +30,11 @@ $ pip install mechanize
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/rinkuvai.git
-$ cd FileClone-All
-$ python librun.py
+$ 
+
+git clone https://github.com/rinkuvai.git
+cd FileClone-All
+python librun.py
 ```
 
 # Single Command 
