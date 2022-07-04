@@ -14,7 +14,7 @@
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Niki404-Cyber/count.svg" />
+ <img src="https://profile-counter.glitch.me/RinkuVau/count.svg" />
 </p>
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220110-170001~2.png)
@@ -27,7 +27,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝚛. 𝙽𝙸𝙺𝙸
+- ➪ 𝙽𝙰𝙼𝙴 :- ABIR CHOWDHURY
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -35,7 +35,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝙼𝚛. 𝙱𝙴𝚃𝙰 & 𝙼𝚛. 𝙱𝙸𝙺𝙸 & 𝙼𝚛. 𝙳𝙴𝚅𝙸𝙻 & 𝚀𝚄𝙴𝙴𝙽-𝙲𝚈𝙱𝙴𝚁-𝚆𝙾𝚁𝙻𝙳 & 𝙼𝚛. 𝙵𝙰𝚁𝙰𝙱𝙸
+- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- NO FRIENDS
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
