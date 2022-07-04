@@ -14,8 +14,8 @@
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
-
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220110-170001~2.png)
+<img src="https://profile-counter.glitch.me/Niki404-Cyber/count.svg" />
+</p>
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
